@@ -1,4 +1,4 @@
-package com.uet.auction;
+package com.uet.auction.model;
 
 public class AuctionApplication {
     public static void main(String[] args) {
